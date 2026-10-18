@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T11:13:20-0400",
- "generated_at_epoch": 1792336400,
+ "generated_at_et": "2026-10-18T11:14:22-0400",
+ "generated_at_epoch": 1792336462,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 26,
+  "today_count": 27,
   "by_class": {
-   "AUTO": 25,
+   "AUTO": 26,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T10:43:17-0400"
+  "queue_updated": "2026-10-18T11:13:37-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 25,
+  "cargo_count": 26,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "05:32",
-    "label": "Gold Box Tripwire Kit: $4,100\u2013$4,240 Range Map + Oil/Yield Break Checklist for B28 Members",
-    "lane": "h",
-    "lane_name": "member tools / kits",
-    "composite": 8.4
-   },
    {
     "date": "2026-10-18",
     "time_et": "06:00",
@@ -140,6 +132,14 @@
     "label": "Three-Touch Mail Ladder: Touches 2 + 3 for Scout's 29-Tracked / 14-Letter List",
     "lane": "c",
     "lane_name": "wholesale / surplus letters pipeline",
+    "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "11:08",
+    "label": "Medicare Open-Enrollment Paperwork-Ready Packet: $49 Organizer for the Oct 15\u2013Dec 7 Window",
+    "lane": "d",
+    "lane_name": "services",
     "composite": 8.3
    }
   ]
