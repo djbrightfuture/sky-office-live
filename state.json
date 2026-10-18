@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T11:22:44-0400",
- "generated_at_epoch": 1792336964,
+ "generated_at_et": "2026-10-18T11:23:47-0400",
+ "generated_at_epoch": 1792337027,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -147,12 +147,12 @@
  "inspections": {
   "status": "ok",
   "source": "/home/hatch/workspace/sky-office/inspections/LATEST.md",
-  "latest_line": "2026-10-18 \u00b7 13 findings (10 glitch / 3 beauty) \u00b7 top areas: hosted door black canvas (4th black session, G10), rig session death under load \u2014 9 of 12 views blocked (G11), mirrored signs + rig facing re-confirmed fresh (G1/G2) \u00b7 beauty notes: 3",
-  "findings_total": 13,
-  "glitch": 10,
+  "latest_line": "2026-10-18 \u00b7 14 findings (11 glitch / 3 beauty) \u00b7 top areas: v3.10.2 promotion FAILED on runtime smoke \u2014 PC door still v3.10.1, trigger premise false (G12), rig fully blocked by box load 7\u201317 + concurrent sessions (G11), hosted check returned no result (G10 carried) \u00b7 beauty notes: 3",
+  "findings_total": 14,
+  "glitch": 11,
   "beauty": 3,
   "clean": false,
-  "updated": "2026-10-18T09:56:23-0400"
+  "updated": "2026-10-18T11:23:31-0400"
  },
  "livewire": {
   "status": "ok",
