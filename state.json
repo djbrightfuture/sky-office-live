@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T13:57:12-0400",
- "generated_at_epoch": 1792346232,
+ "generated_at_et": "2026-10-18T13:58:16-0400",
+ "generated_at_epoch": 1792346296,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 32,
+  "today_count": 33,
   "by_class": {
-   "AUTO": 31,
+   "AUTO": 32,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T13:32:07-0400"
+  "queue_updated": "2026-10-18T13:58:09-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 31,
+  "cargo_count": 32,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "08:20",
-    "label": "Zoncarii Hero Week: Red Ribbon Premium Teacher Tee (Oct 23\u201331)",
-    "lane": "f",
-    "lane_name": "Zoncarii",
-    "composite": 8.3
-   },
    {
     "date": "2026-10-18",
     "time_et": "08:48",
@@ -141,6 +133,14 @@
     "lane": "a",
     "lane_name": "trading products / EA fleet",
     "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "13:56",
+    "label": "B28 Signals Pro: Red-Week Reset Sprint \u2014 7-Day Drawdown Debrief + Blackout Journal (Oct 19\u201325)",
+    "lane": "b",
+    "lane_name": "signals memberships",
+    "composite": 8.3
    }
   ]
  },
