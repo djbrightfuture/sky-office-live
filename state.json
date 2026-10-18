@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T12:07:06-0400",
- "generated_at_epoch": 1792339626,
+ "generated_at_et": "2026-10-18T12:08:09-0400",
+ "generated_at_epoch": 1792339689,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 28,
+  "today_count": 29,
   "by_class": {
-   "AUTO": 27,
+   "AUTO": 28,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T11:46:39-0400"
+  "queue_updated": "2026-10-18T12:07:13-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 27,
+  "cargo_count": 28,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "06:28",
-    "label": "B28 Signals Pro: Earnings-Week Reaction Ledger \u2014 Netflix / Meta / Tesla Sprint (Oct 19\u201323)",
-    "lane": "b",
-    "lane_name": "signals memberships",
-    "composite": 8.4
-   },
    {
     "date": "2026-10-18",
     "time_et": "06:56",
@@ -141,6 +133,14 @@
     "lane": "e",
     "lane_name": "content / clips / studio",
     "composite": 8.5
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "12:04",
+    "label": "Zoncarii Still Rebuilding: 24.5% Puerto Rico Edition (premium art drop)",
+    "lane": "f",
+    "lane_name": "Zoncarii",
+    "composite": 8.2
    }
   ]
  },
