@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T13:31:54-0400",
- "generated_at_epoch": 1792344714,
+ "generated_at_et": "2026-10-18T13:32:58-0400",
+ "generated_at_epoch": 1792344778,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 31,
+  "today_count": 32,
   "by_class": {
-   "AUTO": 30,
+   "AUTO": 31,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T13:04:27-0400"
+  "queue_updated": "2026-10-18T13:32:07-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 30,
+  "cargo_count": 31,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "07:52",
-    "label": "Luxu Teeny Tiny Message: Zoom-Reveal Clip Template Run",
-    "lane": "e",
-    "lane_name": "content / clips / studio",
-    "composite": 8.5
-   },
    {
     "date": "2026-10-18",
     "time_et": "08:20",
@@ -141,6 +133,14 @@
     "lane": "h",
     "lane_name": "member tools / kits",
     "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "13:28",
+    "label": "Split-Half Proof Pack: Second-Half Ranking for the Top Fleet EAs",
+    "lane": "a",
+    "lane_name": "trading products / EA fleet",
+    "composite": 8.4
    }
   ]
  },
