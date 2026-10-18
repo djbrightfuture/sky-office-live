@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T14:26:39-0400",
- "generated_at_epoch": 1792347999,
+ "generated_at_et": "2026-10-18T14:27:43-0400",
+ "generated_at_epoch": 1792348063,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 33,
+  "today_count": 34,
   "by_class": {
-   "AUTO": 32,
+   "AUTO": 33,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T13:58:09-0400"
+  "queue_updated": "2026-10-18T14:27:02-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 32,
+  "cargo_count": 33,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "08:48",
-    "label": "Hidden-Instruction Inbox Test Kit: 28 Synthetic Trap Messages for a Dummy Mailbox",
-    "lane": "g",
-    "lane_name": "own-stack products",
-    "composite": 8.3
-   },
    {
     "date": "2026-10-18",
     "time_et": "09:16",
@@ -141,6 +133,14 @@
     "lane": "b",
     "lane_name": "signals memberships",
     "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "14:24",
+    "label": "Triple-List Intersection Pack: Tax-Delinquent \u00d7 Code-Violation \u00d7 Pre-Foreclosure Overlap Queue",
+    "lane": "c",
+    "lane_name": "wholesale / surplus letters pipeline",
+    "composite": 8.4
    }
   ]
  },
