@@ -1,0 +1,202 @@
+{
+ "schema": 1,
+ "generated_at_et": "2026-10-18T10:22:20-0400",
+ "generated_at_epoch": 1792333340,
+ "publisher": "state-publisher.py (Luxor VM)",
+ "gate": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/cleen-ref/logs",
+  "log_files": 0,
+  "note": "counters are cumulative over the request logs on disk",
+  "last_request_ts": null,
+  "requests": 0,
+  "braked_delicate": 0,
+  "passed": 0,
+  "by_alias": {},
+  "by_category": {}
+ },
+ "hermes": {
+  "status": "ok",
+  "source": "/home/hatch/.hermes",
+  "model": "qwen3:4b",
+  "provider": "custom",
+  "local_only": true,
+  "last_agent_log": "2026-10-18T09:56:36-0400",
+  "note": "Hermes persists no gate-verdict log; verdict counters live in the gate block (CLEEN-REF logs)"
+ },
+ "ideas": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
+  "date_et": "2026-10-18",
+  "today_count": 25,
+  "by_class": {
+   "AUTO": 24,
+   "TAP": 1
+  },
+  "top_today": {
+   "title": "The Building Reports Itself: Receipts Reel Engine (Kevin-teardown campaign)",
+   "composite": 8.7,
+   "class": "AUTO",
+   "time_et": "01:31"
+  },
+  "queue_updated": "2026-10-18T10:16:38-0400"
+ },
+ "conveyor": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
+  "cargo_count": 24,
+  "cargo": [
+   {
+    "date": "2026-10-18",
+    "time_et": "05:04",
+    "label": "Free-Agent Vet Pack: Pre-Install Permission & Brake Check for Viral GitHub Agents ($79)",
+    "lane": "g",
+    "lane_name": "own-stack products",
+    "composite": 8.2
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "05:32",
+    "label": "Gold Box Tripwire Kit: $4,100\u2013$4,240 Range Map + Oil/Yield Break Checklist for B28 Members",
+    "lane": "h",
+    "lane_name": "member tools / kits",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "06:00",
+    "label": "Fleet Bulk-Close Guard Pack: One-Way Close-All Decision Card + Replay Journal for Top Fleet EAs",
+    "lane": "a",
+    "lane_name": "trading products / EA fleet",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "06:28",
+    "label": "B28 Signals Pro: Earnings-Week Reaction Ledger \u2014 Netflix / Meta / Tesla Sprint (Oct 19\u201323)",
+    "lane": "b",
+    "lane_name": "signals memberships",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "06:56",
+    "label": "Surplus Deadline Radar: Escheat-Clock Audit for the Existing Surplus Book",
+    "lane": "c",
+    "lane_name": "wholesale / surplus letters pipeline",
+    "composite": 8.2
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "07:24",
+    "label": "Winter-Proof Heating Bill Audit: EIA Shock Check for the Bill Audit Desk",
+    "lane": "d",
+    "lane_name": "services",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "07:52",
+    "label": "Luxu Teeny Tiny Message: Zoom-Reveal Clip Template Run",
+    "lane": "e",
+    "lane_name": "content / clips / studio",
+    "composite": 8.5
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "08:20",
+    "label": "Zoncarii Hero Week: Red Ribbon Premium Teacher Tee (Oct 23\u201331)",
+    "lane": "f",
+    "lane_name": "Zoncarii",
+    "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "08:48",
+    "label": "Hidden-Instruction Inbox Test Kit: 28 Synthetic Trap Messages for a Dummy Mailbox",
+    "lane": "g",
+    "lane_name": "own-stack products",
+    "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "09:16",
+    "label": "Fed-Week Clock-Shift Kit: DST Gap Card + Silver-Flush Guard for B28 Members",
+    "lane": "h",
+    "lane_name": "member tools / kits",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "09:44",
+    "label": "No-Stop Autopsy Pack: Verified Risk Cards for the Top Fleet EAs ($19 add-on)",
+    "lane": "a",
+    "lane_name": "trading products / EA fleet",
+    "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "10:12",
+    "label": "B28 Signals Pro: Offshore Print Desk \u2014 Canada / UK / China Week (Oct 20\u201323)",
+    "lane": "b",
+    "lane_name": "signals memberships",
+    "composite": 8.3
+   }
+  ]
+ },
+ "inspections": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/sky-office/inspections/LATEST.md",
+  "latest_line": "2026-10-18 \u00b7 13 findings (10 glitch / 3 beauty) \u00b7 top areas: hosted door black canvas (4th black session, G10), rig session death under load \u2014 9 of 12 views blocked (G11), mirrored signs + rig facing re-confirmed fresh (G1/G2) \u00b7 beauty notes: 3",
+  "findings_total": 13,
+  "glitch": 10,
+  "beauty": 3,
+  "clean": false,
+  "updated": "2026-10-18T09:56:23-0400"
+ },
+ "livewire": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/ultimate28-live/state.json",
+  "runs": 5,
+  "last_run_at": "2026-10-18T13:36:49.904Z",
+  "last_scan_date": "2026-10-18",
+  "open_positions": [
+   {
+    "module": "M3 \u2014 LuxDonchianGold",
+    "symbol": "XAUUSD",
+    "side": "SHORT",
+    "entry": 4168.4,
+    "entry_date": "2026-09-28",
+    "stop": 4375.44,
+    "target": 3754.31,
+    "mark_date": "2026-10-16",
+    "mark_close": 4181.1
+   }
+  ],
+  "scan_targets": {
+   "M1": "2026-10-18",
+   "M2": "2026-10-16",
+   "M3": "2026-10-16",
+   "M4": "2026-10-17",
+   "M5": "2026-10-16",
+   "M6": "2026-10-16"
+  }
+ },
+ "ea_trades": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/mt4-signal-bridge/events.jsonl",
+  "bridge_connected": false,
+  "bridge_last_event_et": null,
+  "trades": [],
+  "note": "no trades yet \u2014 bridge awaiting connection"
+ },
+ "systems": {
+  "status": "ok",
+  "source": "/home/hatch/workspace/night-watch/state.json",
+  "night_watch_last_run": "2026-10-18T09:35:08-04:00",
+  "health_summary": "6/7 healthy; Ollama was down - relaunched, verified answering; b28-group-watcher blocked connector_not_connected custom.telegram-b28-signals, 104 consecutive failures, standing since 2026-09-22; other 6 jobs succeeded on cadence",
+  "standing_alert": "b28-group-watcher needs Christian: complete Secure Vault setup for custom.telegram-b28-signals",
+  "bithorn_outbox": 0,
+  "bithorn_uploaded": 0
+ }
+}
