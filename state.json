@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T15:51:22-0400",
- "generated_at_epoch": 1792353082,
+ "generated_at_et": "2026-10-18T15:52:24-0400",
+ "generated_at_epoch": 1792353144,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 36,
+  "today_count": 37,
   "by_class": {
-   "AUTO": 35,
+   "AUTO": 36,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T15:23:30-0400"
+  "queue_updated": "2026-10-18T15:52:19-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 35,
+  "cargo_count": 36,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "10:12",
-    "label": "B28 Signals Pro: Offshore Print Desk \u2014 Canada / UK / China Week (Oct 20\u201323)",
-    "lane": "b",
-    "lane_name": "signals memberships",
-    "composite": 8.3
-   },
    {
     "date": "2026-10-18",
     "time_et": "10:40",
@@ -141,6 +133,14 @@
     "lane": "e",
     "lane_name": "content / clips / studio",
     "composite": 8.4
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "15:48",
+    "label": "Zoncarii Spirit-Week Team Set: Coordinated Grade-Team Capsule for Oct 26\u201330",
+    "lane": "f",
+    "lane_name": "Zoncarii",
+    "composite": 8.3
    }
   ]
  },
