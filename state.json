@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T11:46:33-0400",
- "generated_at_epoch": 1792338393,
+ "generated_at_et": "2026-10-18T11:47:36-0400",
+ "generated_at_epoch": 1792338456,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 27,
+  "today_count": 28,
   "by_class": {
-   "AUTO": 26,
+   "AUTO": 27,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T11:13:37-0400"
+  "queue_updated": "2026-10-18T11:46:39-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 26,
+  "cargo_count": 27,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "06:00",
-    "label": "Fleet Bulk-Close Guard Pack: One-Way Close-All Decision Card + Replay Journal for Top Fleet EAs",
-    "lane": "a",
-    "lane_name": "trading products / EA fleet",
-    "composite": 8.4
-   },
    {
     "date": "2026-10-18",
     "time_et": "06:28",
@@ -141,6 +133,14 @@
     "lane": "d",
     "lane_name": "services",
     "composite": 8.3
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "11:36",
+    "label": "Luxu Pyramid Desk: Sticky-Note Pyramid of Your Industry Ranking Series",
+    "lane": "e",
+    "lane_name": "content / clips / studio",
+    "composite": 8.5
    }
   ]
  },
