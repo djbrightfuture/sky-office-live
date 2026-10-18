@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T15:23:23-0400",
- "generated_at_epoch": 1792351403,
+ "generated_at_et": "2026-10-18T15:24:25-0400",
+ "generated_at_epoch": 1792351465,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 35,
+  "today_count": 36,
   "by_class": {
-   "AUTO": 34,
+   "AUTO": 35,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T14:54:39-0400"
+  "queue_updated": "2026-10-18T15:23:30-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 34,
+  "cargo_count": 35,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "09:44",
-    "label": "No-Stop Autopsy Pack: Verified Risk Cards for the Top Fleet EAs ($19 add-on)",
-    "lane": "a",
-    "lane_name": "trading products / EA fleet",
-    "composite": 8.4
-   },
    {
     "date": "2026-10-18",
     "time_et": "10:12",
@@ -141,6 +133,14 @@
     "lane": "d",
     "lane_name": "services",
     "composite": 8.5
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "15:20",
+    "label": "Luxu Answers in One Word: AI-on-the-Spot Comment-Driven Clip Series",
+    "lane": "e",
+    "lane_name": "content / clips / studio",
+    "composite": 8.4
    }
   ]
  },
