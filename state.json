@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T14:12:57-0400",
- "generated_at_epoch": 1792347177,
+ "generated_at_et": "2026-10-18T14:14:01-0400",
+ "generated_at_epoch": 1792347241,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
