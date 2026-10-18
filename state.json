@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T12:35:49-0400",
- "generated_at_epoch": 1792341349,
+ "generated_at_et": "2026-10-18T12:36:54-0400",
+ "generated_at_epoch": 1792341414,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 29,
+  "today_count": 30,
   "by_class": {
-   "AUTO": 28,
+   "AUTO": 29,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T12:07:13-0400"
+  "queue_updated": "2026-10-18T12:36:07-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 28,
+  "cargo_count": 29,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "06:56",
-    "label": "Surplus Deadline Radar: Escheat-Clock Audit for the Existing Surplus Book",
-    "lane": "c",
-    "lane_name": "wholesale / surplus letters pipeline",
-    "composite": 8.2
-   },
    {
     "date": "2026-10-18",
     "time_et": "07:24",
@@ -141,6 +133,14 @@
     "lane": "f",
     "lane_name": "Zoncarii",
     "composite": 8.2
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "12:32",
+    "label": "Crew Routing Map: $79 Post-Install Audit That Turns a Pile of Free Agents Into One Routed Crew",
+    "lane": "g",
+    "lane_name": "own-stack products",
+    "composite": 8.1
    }
   ]
  },
@@ -193,8 +193,8 @@
  "systems": {
   "status": "ok",
   "source": "/home/hatch/workspace/night-watch/state.json",
-  "night_watch_last_run": "2026-10-18T11:35:08-04:00",
-  "health_summary": "6/7 healthy; Ollama OK; b28-group-watcher blocked connector_not_connected custom.telegram-b28-signals, 104 consecutive failures, standing \u2014 already alerted, no change; telegram-relay-watch 11:31 run marked failed on an unknown logging sub-step (poll itself EXIT:0, no messages) with next run in flight at check time; other jobs succeeded on cadence; signals 2026-10-18: no new entry signals",
+  "night_watch_last_run": "2026-10-18T12:35:08-04:00",
+  "health_summary": "6/7 healthy; Ollama OK; b28-group-watcher blocked connector_not_connected custom.telegram-b28-signals, 104 consecutive failures, standing \u2014 already alerted, no change; all other jobs succeeded on cadence (telegram-relay-watch, b28-signals-drain, design-atelier, luxor-morning-recap, jev-nightly, b28-strategy-signal-scan); signals 2026-10-18: no new entry signals, already delivered",
   "standing_alert": "b28-group-watcher needs Christian: complete Secure Vault setup for custom.telegram-b28-signals",
   "bithorn_outbox": 0,
   "bithorn_uploaded": 0
