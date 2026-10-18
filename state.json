@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T10:36:37-0400",
- "generated_at_epoch": 1792334197,
+ "generated_at_et": "2026-10-18T10:37:39-0400",
+ "generated_at_epoch": 1792334259,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -193,8 +193,8 @@
  "systems": {
   "status": "ok",
   "source": "/home/hatch/workspace/night-watch/state.json",
-  "night_watch_last_run": "2026-10-18T09:35:08-04:00",
-  "health_summary": "6/7 healthy; Ollama was down - relaunched, verified answering; b28-group-watcher blocked connector_not_connected custom.telegram-b28-signals, 104 consecutive failures, standing since 2026-09-22; other 6 jobs succeeded on cadence",
+  "night_watch_last_run": "2026-10-18T10:35:08-04:00",
+  "health_summary": "6/7 healthy; Ollama OK; b28-group-watcher blocked connector_not_connected custom.telegram-b28-signals, 104 consecutive failures, standing \u2014 already alerted, no change; other 6 jobs succeeded on cadence; signals 2026-10-18: no new entry signals",
   "standing_alert": "b28-group-watcher needs Christian: complete Secure Vault setup for custom.telegram-b28-signals",
   "bithorn_outbox": 0,
   "bithorn_uploaded": 0
