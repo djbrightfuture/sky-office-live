@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at_et": "2026-10-18T13:04:26-0400",
- "generated_at_epoch": 1792343066,
+ "generated_at_et": "2026-10-18T13:05:29-0400",
+ "generated_at_epoch": 1792343129,
  "publisher": "state-publisher.py (Luxor VM)",
  "gate": {
   "status": "ok",
@@ -28,9 +28,9 @@
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/idea-queue.md",
   "date_et": "2026-10-18",
-  "today_count": 30,
+  "today_count": 31,
   "by_class": {
-   "AUTO": 29,
+   "AUTO": 30,
    "TAP": 1
   },
   "top_today": {
@@ -39,21 +39,13 @@
    "class": "AUTO",
    "time_et": "01:31"
   },
-  "queue_updated": "2026-10-18T12:36:07-0400"
+  "queue_updated": "2026-10-18T13:04:27-0400"
  },
  "conveyor": {
   "status": "ok",
   "source": "/home/hatch/workspace/money-ideas/conveyor-feed.md",
-  "cargo_count": 29,
+  "cargo_count": 30,
   "cargo": [
-   {
-    "date": "2026-10-18",
-    "time_et": "07:24",
-    "label": "Winter-Proof Heating Bill Audit: EIA Shock Check for the Bill Audit Desk",
-    "lane": "d",
-    "lane_name": "services",
-    "composite": 8.4
-   },
    {
     "date": "2026-10-18",
     "time_et": "07:52",
@@ -141,6 +133,14 @@
     "lane": "g",
     "lane_name": "own-stack products",
     "composite": 8.1
+   },
+   {
+    "date": "2026-10-18",
+    "time_et": "13:00",
+    "label": "Index Brake Kit: VIX-Spike Pause Card for NAS100 / US30 Members (Oct 19\u201323)",
+    "lane": "h",
+    "lane_name": "member tools / kits",
+    "composite": 8.3
    }
   ]
  },
